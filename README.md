@@ -157,7 +157,7 @@
     </td>
      </tr>
   <tr>
-     <td align="center" height="108" width="108">
+     <!-- <td align="center" height="108" width="108">
       <img
         src="https://avatars2.githubusercontent.com/u/61727377?s=400&v=4://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
@@ -165,7 +165,7 @@
         alt="Microfrontends"
       />
       <br /><strong>Microfrontends</strong>
-    </td>
+    </td> -->
      <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
