@@ -1,5 +1,3 @@
-# 👋 Hey there
-
 <div align="justify">
     <!-- My name is Michał and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems. -->
     Meu nome é Nicolas Hubner Santos, sou um desenvolvedor Front End e trabalho com tecnologias de JavaScript. No momento estou focado em aprender um pouco sobre de tudo em relação ao desenvolvimento WEB. E estou sempre aberto a novas tecnologias em prol de resolver problemas da vida real.  
