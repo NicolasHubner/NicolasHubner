@@ -3,7 +3,7 @@
     Meu nome é Nicolas Hubner Santos, sou um desenvolvedor Front End e trabalho com tecnologias de JavaScript. No momento estou focado em aprender um pouco sobre de tudo em relação ao desenvolvimento WEB. E estou sempre aberto a novas tecnologias em prol de resolver problemas da vida real.  
 </div>
 </br>
-# 🔧 Technologies & Tools
+<h1>🔧  Technologies & Tools</h1>
 
 <table>
   <tr>
