@@ -197,7 +197,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHubne
 
 <h1>
 <img src="https://img.icons8.com/ios/50/000000/duplicate-contacts.png"/>
-Contato</h1>
+Contact</h1>
   
    [![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Hubner-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolashubner/)](https://www.linkedin.com/in/nicolashubner/) 
    [![Gmail Badge](https://img.shields.io/badge/-Nicolas%20Hubner-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hubnersantos15@gmail.com)](mailto:hubnersantos15@gmail.com)
