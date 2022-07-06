@@ -179,9 +179,18 @@
 
 # 📈 Stats
 
+<div align="center">
 <img
   src="https://github-readme-stats.vercel.app/api?username=NicolasHubner&show_icons=true&theme=react&&hide_border=true"
 />
+</br>
+</br>
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasHubner&&theme=react&&hide_border=true"
 />
+</br>
+</br>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHubner&layout=compact"
+/>
+</div>
