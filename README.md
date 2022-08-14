@@ -157,7 +157,7 @@
      <tr>
       <td align="center" height="108" width="108">
       <img
-        src='../images/yarn.svg'
+        src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_yarn_icon_130052.png'
         width="48"
         height="48"
         alt="Yarn"
@@ -166,7 +166,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src='../images/node.png'
+        src='https://img.icons8.com/color/48/000000/nodejs.png'
         width="48"
         height="48"
         alt="Node.js"
@@ -175,7 +175,7 @@
     </td>
      <td align="center" height="108" width="108">
       <img
-        src='../images/mongodb.png'
+        src='https://img.icons8.com/color/48/000000/mongodb.png'
         width="48"
         height="48"
         alt="Mongodb"
@@ -184,7 +184,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src='../images/apirest.png'
+        src='https://img.icons8.com/windows/32/000000/api-settings.png'
         width="48"
         height="48"
         alt="API Rest"
@@ -193,7 +193,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src='../images/postman.svg'
+        src='https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png'
         width="48"
         height="48"
         alt="postman"
@@ -211,7 +211,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src='../images/sql.png'
+        src='https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png'
         width="48"
         height="48"
         alt="SQL"
