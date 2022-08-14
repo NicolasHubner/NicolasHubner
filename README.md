@@ -154,6 +154,71 @@
       <br /><strong>Jest</strong>
     </td>
      </tr>
+     <tr>
+      <td align="center" height="108" width="108">
+      <img
+        src='../images/yarn.svg'
+        width="48"
+        height="48"
+        alt="Yarn"
+      />
+      <br /><strong>Yarn</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src='../images/node.png'
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src='../images/mongodb.png'
+        width="48"
+        height="48"
+        alt="Mongodb"
+      />
+      <br /><strong>Mongodb</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src='../images/apirest.png'
+        width="48"
+        height="48"
+        alt="API Rest"
+      />
+      <br /><strong>API Rest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src='../images/postman.svg'
+        width="48"
+        height="48"
+        alt="postman"
+      />
+      <br /><strong>Postman</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png'
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src='../images/sql.png'
+        width="48"
+        height="48"
+        alt="SQL"
+      />
+      <br /><strong>SQL</strong>
+    </td>
+     </tr>
 </table>
 
 # 📈 Stats
