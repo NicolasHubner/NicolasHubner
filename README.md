@@ -153,15 +153,6 @@
       />
       <br /><strong>Npm</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
-    </td>
      </tr>
      <tr>
       <td align="center" height="108" width="108">
@@ -226,6 +217,15 @@
         alt="SQL"
       />
       <br /><strong>SQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+      <br /><strong>Jest</strong>
     </td>
      </tr>
 </table>
