@@ -119,6 +119,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React Native"
+      />
+      <br /><strong>React Native</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
         width="48"
         height="48"
