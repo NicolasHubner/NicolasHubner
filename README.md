@@ -1,5 +1,5 @@
 <div align="justify">
-    Meu nome é Nicolas Hubner Santos, sou um desenvolvedor Mobile e trabalho atualmente com React Native. No momento estou focado em me desenvolver no ecossistema React, de preferência relacionados ao Mobile.
+    Desenvolvedor de software especializado em aplicações mobile híbridas operando na plataforma React Native, assim como em todos os âmbitos de aplicações mobile ou web. Meu tempo empreendendo me deu uma visão macro quanto a qualidade e usabilidade do produto, minha graduação em publicidade em propaganda garantindo uma visão orientada a resultados e métricas de entrega efetivas e minha paixão pelo desenvolvimento aliado ao meu histórico empreendedor garantindo que seja um desenvolvedor que não apenas cria software mas que realiza sonhos.
 </div>
 </br>
 <h1>🔧  Technologies & Tools</h1>
