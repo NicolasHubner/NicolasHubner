@@ -3,7 +3,7 @@
 
 Today I am a software developer who loves to create and test new ideas, creating and improving on technology that benefits people.
 
-In the last couple of years my love for software development has taken me to different corners of the dev spectrum, but my focus is iron-clad on the JS ecosystem.
+In the last couple of years my love for software development has taken me to different corners of the dev spectrum, but my focus is iron-clad on the JS ecosystem and the languages structered like .Net Core.
 
 </div>
 </br>
@@ -82,6 +82,15 @@ In the last couple of years my love for software development has taken me to dif
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
+    </td>
+     <td align="center" height="108" width="108">
+    <img
+      src="https://img.icons8.com/color/48/net-framework.png"
+       width="48"
+        height="48"
+        alt=".Net Core"
+      />
+      <br /><strong>.Net Core</strong>
     </td>
   </tr>
   <tr>
@@ -169,15 +178,15 @@ In the last couple of years my love for software development has taken me to dif
     </td>
      </tr>
      <tr>
-      <!-- <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img
-        src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_yarn_icon_130052.png'
+        src='https://img.icons8.com/color/48/c-plus-plus-logo.png'
         width="48"
         height="48"
         alt="Yarn"
       />
-      <br /><strong>Yarn</strong>
-    </td> -->
+      <br /><strong>C++</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src='https://img.icons8.com/color/48/000000/nodejs.png'
