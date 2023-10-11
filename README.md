@@ -1,12 +1,17 @@
 <div align="justify">
-    Desenvolvedor de software especializado em aplicações mobile híbridas operando na plataforma React Native, assim como em todos os âmbitos de aplicações mobile ou web. Meu tempo empreendendo me deu uma visão macro quanto a qualidade e usabilidade do produto, minha graduação em publicidade em propaganda garantindo uma visão orientada a resultados e métricas de entrega efetivas e minha paixão pelo desenvolvimento aliado ao meu histórico empreendedor garantindo que seja um desenvolvedor que não apenas cria software mas que realiza sonhos.
+    Previously enrolled in university courses like engineering, medicine and marketing, plus having worked for a time in the food business, I eventually found my passion: coding.
+
+Today I am a software developer who loves to create and test new ideas, creating and improving on technology that benefits people.
+
+In the last couple of years my love for software development has taken me to different corners of the dev spectrum, but my focus is iron-clad on the JS ecosystem.
+
 </div>
 </br>
 <h1>🔧  Technologies & Tools</h1>
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
@@ -14,8 +19,8 @@
         alt="HTML"
       />
       <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
@@ -23,7 +28,7 @@
         alt="CSS3"
       />
       <br /><strong>CSS3</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -51,7 +56,7 @@
       />
       <br /><strong>React</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
@@ -59,7 +64,7 @@
         alt="Redux"
       />
       <br /><strong>Redux</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
@@ -80,7 +85,7 @@
     </td>
   </tr>
   <tr>
-       <td align="center" height="108" width="108">
+       <!-- <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
         width="48"
@@ -88,9 +93,9 @@
         alt="VSCode"
       />
       <br /><strong>VSCode</strong>
+    </td> -->
     </td>
-    </td>
-    <td align="center" height="108" width="108">
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://styled-components.com/logo.png"
         width="48"
@@ -98,8 +103,8 @@
         alt="Styled Components"
       />
       <br /><strong>Styled Components</strong>
-    </td>
-    <td align="center" height="108" width="108">
+    </td> -->
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/5/51/RTL_logo.svg"
         width="48"
@@ -107,7 +112,7 @@
         alt="RTL"
       />
       <br /><strong>RTL</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
@@ -126,7 +131,7 @@
       />
       <br /><strong>React Native</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
         width="48"
@@ -134,7 +139,7 @@
         alt="Bash"
       />
       <br /><strong>Bash</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -144,18 +149,27 @@
       />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="108" width="108">
+     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="Jest"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>Jest</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
+        width="48"
+        height="48"
+        alt="NestJs"
+      />
+      <br /><strong>NestJs</strong>
     </td>
      </tr>
      <tr>
-      <td align="center" height="108" width="108">
+      <!-- <td align="center" height="108" width="108">
       <img
         src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_yarn_icon_130052.png'
         width="48"
@@ -163,7 +177,7 @@
         alt="Yarn"
       />
       <br /><strong>Yarn</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src='https://img.icons8.com/color/48/000000/nodejs.png'
@@ -191,7 +205,7 @@
       />
       <br /><strong>API Rest</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <!-- <td align="center" height="108" width="108">
       <img
         src='https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png'
         width="48"
@@ -199,7 +213,7 @@
         alt="postman"
       />
       <br /><strong>Postman</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png'
@@ -217,15 +231,6 @@
         alt="SQL"
       />
       <br /><strong>SQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        width="48"
-        height="48"
-        alt="Jest"
-      />
-      <br /><strong>Jest</strong>
     </td>
      </tr>
 </table>
