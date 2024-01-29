@@ -177,7 +177,7 @@ In the last couple of years my love for software development has taken me to dif
       <br /><strong>NestJs</strong>
     </td>
      </tr>
-     <tr>
+     <!-- <tr>
       <td align="center" height="108" width="108">
       <img
         src='https://img.icons8.com/color/48/c-plus-plus-logo.png'
@@ -186,7 +186,7 @@ In the last couple of years my love for software development has taken me to dif
         alt="Yarn"
       />
       <br /><strong>C++</strong>
-    </td>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src='https://img.icons8.com/color/48/000000/nodejs.png'
