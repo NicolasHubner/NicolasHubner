@@ -1,9 +1,8 @@
 <div align="justify">
-    Previously enrolled in university courses like engineering, medicine and marketing, plus having worked for a time in the food business, I eventually found my passion: coding.
-
-Today I am a software developer who loves to create and test new ideas, creating and improving on technology that benefits people.
-
-In the last couple of years my love for software development has taken me to different corners of the dev spectrum, but my focus is iron-clad on the JS ecosystem and the languages structered like .Net Core.
+    Originally from the United States, the educational and professional journey has taken through diverse fields like engineering, medicine, and marketing. In a previous role, collaborating with a company that handled a $24k monthly invoice and served 4,000 users significantly improved software development skills, particularly in React. Additionally, it provided valuable insights into managing large-scale operations and addressing diverse user needs.
+</br>
+</br>
+    Today, leading mobile app development for one of Brazil's top three accounting firms involves serving 40,000 users. This role offers an opportunity to apply expertise in React to enhance user experience and drive company growth.
 
 </div>
 </br>
