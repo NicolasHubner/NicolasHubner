@@ -1,14 +1,18 @@
 <div align="justify">
-    Previously enrolled in university courses like engineering, medicine and marketing, plus having worked for a time in the food business, I eventually found my passion: coding.
+    &nbsp &nbsp Previously enrolled in university courses like engineering, medicine and marketing, plus having worked for a time in the food business, I eventually found my passion: coding.
 
-Today I am a software developer who loves to create and test new ideas, creating and improving on technology that benefits people.
+</br>
+&nbsp&nbspToday I am a software developer who loves to create and test new ideas, creating and improving on technology that benefits people.
+</br>
+</br>
 
-In the last couple of years my love for software development has taken me to different corners of the dev spectrum, but my focus is iron-clad on the JS ecosystem and the languages structered like .Net Core.
+&nbsp&nbsp In the last couple of years my love for software development has taken me to different corners of the dev spectrum, but my focus is iron-clad on the JS ecosystem and the languages structered like .Net Core.
 
 </div>
 </br>
 <h1>🔧  Technologies & Tools</h1>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -125,6 +129,7 @@ In the last couple of years my love for software development has taken me to dif
     </td>
      </tr>
 </table>
+</div>
 
 # 📈 Stats
 
@@ -151,4 +156,4 @@ Contact</h1>
 [![Linkedin Badge](https://img.shields.io/badge/-Nicolas%20Hubner-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolashubner/)](https://www.linkedin.com/in/nicolashubner/)
 [![Gmail Badge](https://img.shields.io/badge/-Nicolas%20Hubner-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hubnersantos15@gmail.com)](mailto:hubnersantos15@gmail.com)
 
-<h2 align="center"> Obrigado por Visitar!</h2>
+<h2 align="center"> Thanks for visiting!</h2>
