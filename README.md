@@ -1,8 +1,9 @@
 <div align="justify">
-    Originally from the United States, the educational and professional journey has taken through diverse fields like engineering, medicine, and marketing. In a previous role, collaborating with a company that handled a $24k monthly invoice and served 4,000 users significantly improved software development skills, particularly in React. Additionally, it provided valuable insights into managing large-scale operations and addressing diverse user needs.
-</br>
-</br>
-    Today, leading mobile app development for one of Brazil's top three accounting firms involves serving 40,000 users. This role offers an opportunity to apply expertise in React to enhance user experience and drive company growth.
+    Previously enrolled in university courses like engineering, medicine and marketing, plus having worked for a time in the food business, I eventually found my passion: coding.
+
+Today I am a software developer who loves to create and test new ideas, creating and improving on technology that benefits people.
+
+In the last couple of years my love for software development has taken me to different corners of the dev spectrum, but my focus is iron-clad on the JS ecosystem and the languages structered like .Net Core.
 
 </div>
 </br>
@@ -30,15 +31,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
         height="48"
@@ -58,14 +50,14 @@
   </tr>
   <tr>
     </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
-        alt="Next JS"
+        alt="React"
       />
-      <br /><strong>Next JS</strong>
+      <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
