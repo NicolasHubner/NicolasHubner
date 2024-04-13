@@ -11,24 +11,6 @@ In the last couple of years my love for software development has taken me to dif
 
 <table>
   <tr>
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td> -->
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -56,7 +38,7 @@ In the last couple of years my love for software development has taken me to dif
       />
       <br /><strong>React</strong>
     </td>
-    <!-- <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
@@ -64,24 +46,6 @@ In the last couple of years my love for software development has taken me to dif
         alt="Redux"
       />
       <br /><strong>Redux</strong>
-    </td> -->
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
     </td>
      <td align="center" height="108" width="108">
     <img
@@ -94,34 +58,7 @@ In the last couple of years my love for software development has taken me to dif
     </td>
   </tr>
   <tr>
-       <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
-        width="48"
-        height="48"
-        alt="VSCode"
-      />
-      <br /><strong>VSCode</strong>
-    </td> -->
     </td>
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://styled-components.com/logo.png"
-        width="48"
-        height="48"
-        alt="Styled Components"
-      />
-      <br /><strong>Styled Components</strong>
-    </td> -->
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/5/51/RTL_logo.svg"
-        width="48"
-        height="48"
-        alt="RTL"
-      />
-      <br /><strong>RTL</strong>
-    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
@@ -140,24 +77,6 @@ In the last couple of years my love for software development has taken me to dif
       />
       <br /><strong>React Native</strong>
     </td>
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
-        width="48"
-        height="48"
-        alt="Bash"
-      />
-      <br /><strong>Bash</strong>
-    </td> -->
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
@@ -175,18 +94,7 @@ In the last couple of years my love for software development has taken me to dif
         alt="NestJs"
       />
       <br /><strong>NestJs</strong>
-    </td>
      </tr>
-     <!-- <tr>
-      <td align="center" height="108" width="108">
-      <img
-        src='https://img.icons8.com/color/48/c-plus-plus-logo.png'
-        width="48"
-        height="48"
-        alt="Yarn"
-      />
-      <br /><strong>C++</strong>
-    </td> -->
     <td align="center" height="108" width="108">
       <img
         src='https://img.icons8.com/color/48/000000/nodejs.png'
@@ -207,24 +115,6 @@ In the last couple of years my love for software development has taken me to dif
     </td>
     <td align="center" height="108" width="108">
       <img
-        src='https://img.icons8.com/windows/32/000000/api-settings.png'
-        width="48"
-        height="48"
-        alt="API Rest"
-      />
-      <br /><strong>API Rest</strong>
-    </td>
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src='https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png'
-        width="48"
-        height="48"
-        alt="postman"
-      />
-      <br /><strong>Postman</strong>
-    </td> -->
-    <td align="center" height="108" width="108">
-      <img
         src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png'
         width="48"
         height="48"
@@ -232,14 +122,15 @@ In the last couple of years my love for software development has taken me to dif
       />
       <br /><strong>Docker</strong>
     </td>
-    <td align="center" height="108" width="108">
+     </td>
+     <td align="center" height="108" width="108">
       <img
-        src='https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png'
+        src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png"
         width="48"
         height="48"
-        alt="SQL"
+        alt="Kotlin"
       />
-      <br /><strong>SQL</strong>
+      <br /><strong>Kotlin</strong>
     </td>
      </tr>
 </table>
