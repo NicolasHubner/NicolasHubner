@@ -1,7 +1,8 @@
 <div align="justify">
-  Originally from the United States, the educational and professional journey has taken through diverse fields like engineering, medicine, and marketing. In a previous role, collaborating with a company that handled a $24k monthly invoice and served 4,000 users significantly improved software development skills, particularly in React. Additionally, it provided valuable insights into managing large-scale operations and addressing diverse user needs.
+    Originally from the United States, the educational and professional journey has taken through diverse fields like engineering, medicine, and marketing. In a previous role, collaborating with a company that handled a $24k monthly invoice and served 4,000 users significantly improved software development skills, particularly in React. Additionally, it provided valuable insights into managing large-scale operations and addressing diverse user needs.
 </br>
-Today, leading mobile app development for one of Brazil's top three accounting firms involves serving 40,000 users. This role offers an opportunity to apply expertise in React to enhance user experience and drive company growth.
+</br>
+    Today, leading mobile app development for one of Brazil's top three accounting firms involves serving 40,000 users. This role offers an opportunity to apply expertise in React to enhance user experience and drive company growth.
 
 </div>
 </br>
