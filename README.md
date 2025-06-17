@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Nicolas Hübner! 👨‍💻</h1>
 <h3 align="center">A problemsolver that uses software to do just that!</h3>
 
-- 🔭 I’m currently delving deeper into React native, Next.js, SwiftUI and Kotlin.
+- 🔭 I’m currently delving deeper into React native, React Router, React, Node and NestJs, litte bit with Kotlin and SwitfUi.
 
 
 - Please keep in mind no commercial project can be shown here, so feel free to message me to see the real good stuff.
